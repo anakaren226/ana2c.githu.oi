@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCYPE html>
 <html>
 <head>
 <titl e>Mi pagina con estilo</ title>
