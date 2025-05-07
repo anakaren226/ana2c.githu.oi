@@ -1,8 +1,8 @@
 <!DOCYPE html>
 <html>
-<head>
-<titl e>Mi pagina con estilo</ title>
-</head>
+<head> 
+<titl e>Mi pagina con estilo</title>
+</ head>
 <body>
 
 <h1 style="color:blue;text-align:center">Este es un encabezado que esta centrado y de color azul</h1>
