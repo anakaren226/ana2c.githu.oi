@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-     < title >Mi pagina con estilo</ title> 
+     <title >Mi pagina con estilo</ title> 
 </head>
 <body>
 
